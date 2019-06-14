@@ -5,4 +5,4 @@ each filtering either the fundamental or one of the next 4 harmonics. The script
 harmonic to remove. It will play back both the samples and provide graphs to analyse the filtered and unfiltered audio files based upon 
 time and frequency domains. 
 
-All necessary files/code included as well as examples of the resulting audio files, named as the corresponding filtered harmonic.
+All necessary files/code included, as well as examples of the resulting audio files, named as the corresponding filtered harmonic.
